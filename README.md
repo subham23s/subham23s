@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Subham 👋
 
-<!--
-**subham23s/subham23s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- B.Tech CSE (AI/ML Specialization)
+- Focused on building practical AI/ML systems — not just theory
+- Actively improving problem-solving and core CS fundamentals
 
-Here are some ideas to get you started:
+## 🧠 Core Skills
+- Programming: Python, C++, SQL
+- Version Control: Git & GitHub
+- Fundamentals: Data Structures & Algorithms
+- ML Tools: NumPy, Pandas (learning & applying)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Strengthening DSA for competitive and technical interviews
+- Building small but complete ML projects (end-to-end)
+- Improving code structure and documentation practices
+
+## 📌 Goals
+- Contribute to open-source projects
+- Build production-level AI/ML applications
+- Develop strong backend fundamentals
+
+## 📫 Connect With Me
+- LinkedIn: [Subham Mishra](https://linkedin.com/in/subhammishra23)
