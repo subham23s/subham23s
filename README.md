@@ -42,14 +42,14 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 <br><br>
 
-[![Python](https://img.shields.io/badge/Python-Expert-ffffff?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-ffffff?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e)](https://tensorflow.org)
-[![Keras](https://img.shields.io/badge/Keras-Advanced-ffffff?style=flat-square&logo=keras&logoColor=white&labelColor=1a1a2e)](https://keras.io)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-ffffff?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a1a2e)](https://scikit-learn.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Learning-aaaaaa?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a2e)](https://pytorch.org)
-[![Flask](https://img.shields.io/badge/Flask-Advanced-ffffff?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)](https://flask.palletsprojects.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-ffffff?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1a2e)](https://streamlit.io)
-[![Node.js](https://img.shields.io/badge/Node.js-Intermediate-aaaaaa?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-AI%20%2F%20ML-ffffff?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-ffffff?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e)](https://tensorflow.org)
+[![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-ffffff?style=flat-square&logo=keras&logoColor=white&labelColor=1a1a2e)](https://keras.io)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Classical%20ML-ffffff?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a1a2e)](https://scikit-learn.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ffffff?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a2e)](https://pytorch.org)
+[![Flask](https://img.shields.io/badge/Flask-Backend-ffffff?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)](https://flask.palletsprojects.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Deploy-ffffff?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1a2e)](https://streamlit.io)
+[![Node.js](https://img.shields.io/badge/Node.js-Backend-ffffff?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)](https://nodejs.org)
 
 </div>
 
