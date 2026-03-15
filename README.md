@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SUBHAM%20MISHRA&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Dev%20%7C%202x%20Hackathon%20Winner&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn)](https://github.com/subham23s)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SUBHAM%20MISHRA&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Dev%20%7C%20B.Tech%20CSE%20%40%20Centurion%20University&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn)](https://github.com/subham23s)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI%2FML+systems+that+actually+work;Neural+Networks+%7C+NLP+%7C+Deep+Learning;Backend+Dev+%7C+Flask+%7C+Python;2x+Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI%2FML+systems+that+actually+work;Neural+Networks+%7C+NLP+%7C+Deep+Learning;Backend+Dev+%7C+Flask+%7C+Python)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,33 +21,23 @@
 
 ```
 name:        Subham Mishra
-role:        AI/ML Engineer (building) + Full-Stack Developer
+role:        AI/ML Engineer (building) + Backend Developer
 location:    Bhubaneswar, Odisha, India 🇮🇳
 education:   B.Tech CSE (AI/ML) @ Centurion University, Jatani (2024–2028)
 
 currently:
-  - studying:    Deep Learning, NLP, LLMs — structured 6-month roadmap
+  - studying:    Deep Learning, NLP, LLMs — structured roadmap
   - building:    end-to-end ML projects with real datasets + deployment
   - exploring:   PyTorch, SQL, advanced math for ML
-
-achievements:
-  - 1st Prize @ Zenotrone 48-hr Hackathon (GFG evaluated · Red Bull sponsored)
-  - Selected at university level for Smart India Hackathon (SIH)
-  - Attended AI Day Bhubaneswar 2025 (TensorFlow / TUF sponsored)
-
-superpowers:
-  - Built ANN from scratch: 8-input → 64/32/16 layers → sub-2 MAE on ENB2012
-  - Blockchain + ML integration: SHA-256 tamper detection + IPFS + PoW mining
-  - End-to-end pipelines: raw data → trained model → deployed Streamlit/Flask app
 ```
 
 ---
 
-## 🏗️ What I Actually Build
+## 🏗️ What I Build
 
-|  |  |
-| --- | --- |
-| 🤖 **AI/ML Systems** <br>• ANN models with Keras — trained, evaluated, deployed <br>• Regression & classification on real datasets <br>• End-to-end ML pipelines: preprocessing → training → UI | 🔗 **Backend & Web** <br>• REST APIs with Flask and Node.js <br>• Blockchain apps: PoW, IPFS (Pinata), SHA-256 tamper detection <br>• Full-stack: React/Next.js frontend + Python/Node backend |
+- 🤖 End-to-end ML pipelines — data → model → deployed app (Streamlit / Flask)
+- 🔧 REST APIs & backend systems with Flask and Node.js
+- ⛓️ Blockchain + ML integrations (PoW, IPFS, SHA-256)
 
 ---
 
@@ -149,14 +139,6 @@ superpowers:
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **1st Prize** — Zenotrone 48-Hour Hackathon (GFG evaluated · Red Bull sponsored)
-- 🇮🇳 **SIH Selected** — Smart India Hackathon (University Level)
-- 🧠 **AI Day Bhubaneswar 2025** — TensorFlow / TUF Sponsored
-- 📜 **Ethics in Generative AI** — Certification
-
----
 
 ## 🤝 Connect With Me
 
