@@ -173,7 +173,7 @@ Input File (any format)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000d1a?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/subhammishra23)
 [![Gmail](https://img.shields.io/badge/Gmail-000d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:subhammishra87198@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000d1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/subham23s)
+
 
 ![](https://komarev.com/ghpvc/?username=subham23s&label=profile+views&color=00d4ff&style=flat-square&labelColor=000d1a)
 
