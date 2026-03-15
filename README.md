@@ -95,9 +95,11 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/subhammishra23)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:subhammishra87198@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/subham23s)
 
-![views](https://komarev.com/ghpvc/?username=subham23s&label=profile+views&color=ffffff&style=flat-square&labelColor=0d1117)
+<br>
+
+![views](https://komarev.com/ghpvc/?username=subham23s&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117)
+![stars](https://img.shields.io/badge/dynamic/json?color=00ffaa&labelColor=0d1117&style=for-the-badge&label=⭐+Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsubham23s)
 
 </div>
 
