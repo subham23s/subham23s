@@ -83,7 +83,7 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 <br>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=subham23s&bg_color=0d1117&color=ffffff&line=444444&point=ffffff&area=true&area_color=1a1a2e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=subham23s&bg_color=0d1117&color=00d4ff&line=00ffaa&point=ffffff&area=true&area_color=003333&hide_border=true&radius=8&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
