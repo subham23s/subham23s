@@ -91,6 +91,7 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/subhammishra23)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:subhammishra87198@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/subham31s)
 
 <br>
 
